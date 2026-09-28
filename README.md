@@ -34,15 +34,15 @@ Hi, I'm **Nikhil Kumar** 👋, a B.Tech CSE (AI/ML) student and aspiring **Full-
 
 ### ✍️ Random Dev Quote
 
-
-### Top Contributed Repo
-[![FraudShield AI](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=Fraudshield-AI&theme=dark)](https://github.com/nk0273926/Fraudshield-AI) [![BuFu](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=BuFu&theme=dark)](https://github.com/nk0273926/BuFu) [![ZenvisionAI](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=ZenvisionAI&theme=dark)](https://github.com/nk0273926/ZenvisionAI)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nk0273926&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![FraudShield AI](https://github-readme-stats.shion.dev/api/pin/?username=nk0273926&repo=Fraudshield-AI&theme=dark)](https://github.com/nk0273926/Fraudshield-AI) [![BuFu](https://github-readme-stats.shion.dev/api/pin/?username=nk0273926&repo=BuFu&theme=dark)](https://github.com/nk0273926/BuFu) [![ZenvisionAI](https://github-readme-stats.shion.dev/api/pin/?username=nk0273926&repo=ZenvisionAI&theme=dark)](https://github.com/nk0273926/ZenvisionAI)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nk0273926&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nk0273926&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
