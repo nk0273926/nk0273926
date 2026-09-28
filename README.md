@@ -33,6 +33,10 @@ Hi, I'm **Nikhil Kumar** 👋, a B.Tech CSE (AI/ML) student and aspiring **Full-
 ![](https://github-profile-trophy.vercel.app/?username=nk0273926&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
+
+### Top Contributed Repo
+[![FraudShield AI](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=Fraudshield-AI&theme=dark)](https://github.com/nk0273926/Fraudshield-AI) [![BuFu](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=BuFu&theme=dark)](https://github.com/nk0273926/BuFu) [![ZenvisionAI](https://github-readme-stats.vercel.app/api/pin/?username=nk0273926&repo=ZenvisionAI&theme=dark)](https://github.com/nk0273926/ZenvisionAI)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
